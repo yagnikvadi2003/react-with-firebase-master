@@ -1,14 +1,6 @@
 # The Road to React with Firebase [Book]
 
-[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
-
 The official repository for [The Road to React with Firebase](https://roadtoreact.com/).
-
-## Updates, Help and Support
-
-* Get book updates via [E-Mail](https://www.getrevue.co/profile/rwieruch) or [Twitter](https://twitter.com/rwieruch)
-* Get help, while learning with the book or teach others, in the official [Slack Channel](https://slack-the-road-to-learn-react.wieruch.com/)
-* Find out how you can [support the Book](https://www.robinwieruch.de/about/)
 
 ## Contribute
 
